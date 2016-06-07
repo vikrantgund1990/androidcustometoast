@@ -50,7 +50,7 @@ public class TheToast {
                 layout.setBackgroundResource(R.drawable.toast_background);
                 break;
             case ERROR_TOAST:
-                layout.setBackgroundResource(R.drawable.error_toast_bachground);
+                layout.setBackgroundResource(R.drawable.error_toast_background);
                 break;
             case SUCCESS_TOAST:
                 layout.setBackgroundResource(R.drawable.success_toast_background);
